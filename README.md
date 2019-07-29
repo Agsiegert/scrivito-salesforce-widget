@@ -23,7 +23,7 @@ import "scrivito-salesforce-widget";
 
 ## To use this widget
 
-This widget is designed to be used with Salesforce web-to-lead. To use this widget (setup a web-to-lead form)[https://help.salesforce.com/articleView?id=setting_up_web-to-lead.htm&type=5].
+This widget is designed to be used with Salesforce web-to-lead. To use this widget [setup a web-to-lead form](https://help.salesforce.com/articleView?id=setting_up_web-to-lead.htm&type=5).
 
 
 ## Widget Configuration
